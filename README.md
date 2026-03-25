@@ -163,10 +163,4 @@ The application integrates with Uzum Market OpenAPI:
 - Graceful handling of API errors
 - Loading states during requests
 
-## 📄 License
 
-ISC
-
----
-
-**Developed for BM Agency Full-Stack Developer Test**
