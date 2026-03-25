@@ -1,11 +1,10 @@
-# BM Agency – Uzum Market Integration
 
 Full-stack application integrating with Uzum Market OpenAPI for managing product stock information and inspecting FBS order details.
 
 ## 🏗️ Project Structure
 
 ```
-BM agency/
+stock-manager/
 ├── backend/              # Node.js/Express API server
 │   ├── src/
 │   │   ├── routes/      # API endpoints
